@@ -47,7 +47,7 @@ I've got a lot of experience making all kinds of things, from websites and apps 
   </a>
 </div>
 
-### ⚡ 3 Fun facts
+### ⚡ ~3~ 4 Fun facts
 
 - The  `&` symbol is formed from the letters in et—the Latin word for "and." 
 - "b" + "a" + +"a" + "a"; // -> 'baNaNa'
