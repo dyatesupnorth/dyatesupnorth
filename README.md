@@ -42,7 +42,7 @@ I've got a lot of experience making all kinds of things, from websites and apps 
   <a href="https://twitter.com/daveyates_">
     <img src="https://img.shields.io/badge/daveyates_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@davidyates">
+  <a href="https://medium.com/@dyates.upnorth">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
