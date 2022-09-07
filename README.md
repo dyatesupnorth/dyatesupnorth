@@ -8,7 +8,6 @@ I've got a lot of experience making all kinds of things, from websites and apps 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
    <img src="https://img.shields.io/badge/nodejs-%2368A063.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.JS"/>
    <img src="https://img.shields.io/badge/laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/>
-   <img src="https://img.shields.io/badge/devops-black.svg?style=for-the-badge" alt="DevOps"/>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
        <img src="https://img.shields.io/badge/Kubernetes-%233970e4.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
